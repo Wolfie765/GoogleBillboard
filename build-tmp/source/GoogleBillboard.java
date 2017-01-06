@@ -31,6 +31,7 @@ public void draw()
 public boolean isPrime(double dNum)  
 {   
     //to be finished later   
+    
     return true;  
 } 
   static public void main(String[] passedArgs) {
